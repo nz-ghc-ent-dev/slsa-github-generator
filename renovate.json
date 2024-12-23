@@ -5,7 +5,7 @@
     "schedule:monthly",
     ":gitSignOff"
   ],
-  "forkProcessing": true
+  "forkProcessing": "enabled"
   "vulnerabilityAlerts": {
     "schedule": "* 0-4 * * *"
   },
