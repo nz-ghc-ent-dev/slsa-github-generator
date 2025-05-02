@@ -10,7 +10,7 @@ require (
 	github.com/google/go-github/v57 v57.0.0
 	github.com/in-toto/in-toto-golang v0.9.0
 	github.com/pelletier/go-toml v1.9.5
-	github.com/secure-systems-lab/go-securesystemslib v0.8.0
+	github.com/secure-systems-lab/go-securesystemslib v0.9.0
 	github.com/sigstore/cosign/v2 v2.4.1
 	github.com/sigstore/rekor v1.3.6
 	github.com/sigstore/sigstore v1.8.10
