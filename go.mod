@@ -12,7 +12,7 @@ require (
 	github.com/pelletier/go-toml v1.9.5
 	github.com/secure-systems-lab/go-securesystemslib v0.8.0
 	github.com/sigstore/cosign/v2 v2.4.1
-	github.com/sigstore/rekor v1.3.6
+	github.com/sigstore/rekor v1.3.10
 	github.com/sigstore/sigstore v1.8.10
 	github.com/spf13/cobra v1.8.1
 	golang.org/x/oauth2 v0.23.0
