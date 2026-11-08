@@ -13,7 +13,7 @@ require (
 	github.com/secure-systems-lab/go-securesystemslib v0.8.0
 	github.com/sigstore/cosign/v2 v2.4.1
 	github.com/sigstore/rekor v1.3.6
-	github.com/sigstore/sigstore v1.8.10
+	github.com/sigstore/sigstore v1.11.3
 	github.com/spf13/cobra v1.8.1
 	golang.org/x/oauth2 v0.23.0
 	gopkg.in/square/go-jose.v2 v2.6.0
